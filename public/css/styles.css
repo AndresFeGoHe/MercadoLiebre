@@ -42,7 +42,8 @@ main {
 }
 
 .titulo {
-    color: gray;
+    background-color: rgba(216, 185, 7, 0.81);
+    color: black;
     font-size: 40px;
     text-align: center;
 
@@ -57,7 +58,8 @@ main {
 }
 
 .titulo1 {
-    color: gray;
+    background-color: rgba(216, 185, 7, 0.81);
+    color: black;
     font-size: 40px;
     text-align: center;
 }
