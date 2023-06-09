@@ -81,8 +81,12 @@ main {
 }
 
 
-/* Login*/
+/* Login*/ 
 /* main*/
+
+.fondo-principal{
+background-color: #fbe97e;
+}
 .titulologin {
     color: black;
     text-align: center;
